@@ -2,4 +2,6 @@
 
 A news site which displays a list of articles. Each article has a link to the page with the full text, this article has a thumbnail and full page imange.
 
-I learned how to use Carrierwave nd Cloudinary while building this app. 
+I learned how to use Carrierwave and Cloudinary while building this app.
+
+https://tranquil-citadel-44906.herokuapp.com/
